@@ -11,9 +11,9 @@ const About = () => {
         <img src={theme_pattern} alt="" />
       </div>
       <div className="about-sections">
-        <div className="about-left">
+        {/* <div className="about-left">
             <img className="profilep"src={profile_img} alt="" />
-        </div>
+        </div> */}
         <div className="about-right">
             <div className="about-para">
                 <p>I am a prefinal student at IIIT Sonepat, specializing in web development and competitive programming. As a passionate problem solver and full stack developer, I enjoy creating efficient and scalable web applications. My skills span both front-end and back-end technologies, enabling me to deliver complete, user-friendly solutions. I am constantly seeking new challenges to enhance my technical expertise and contribute to impactful projects.</p>
